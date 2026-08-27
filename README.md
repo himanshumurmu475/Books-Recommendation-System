@@ -37,7 +37,7 @@ I built this project to create a book discovery and recommendation web applicati
 ## 📁 Project Directory Structure
 
 ```text
-Movie Recomandation System/
+Books Recomandation System/
 ├── artifacts/              # Pre-trained ML model & matrix files (.pkl)
 │   ├── model.pkl
 │   ├── book_pivot.pkl
