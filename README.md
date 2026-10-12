@@ -62,7 +62,7 @@ Books Recomandation System/
 
 ### Step 1: Open terminal in the project directory
 ```bash
-cd "c:/Users/himan/Projects/Movie Recomandation System"
+cd "c:/Users/name/Projects/Movie Recomandation System"
 ```
 
 ### Step 2: Create and activate virtual environment
