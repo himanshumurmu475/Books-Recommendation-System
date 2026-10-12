@@ -1,12 +1,12 @@
-# 📚 My First Machine Learning Project: PageMatch (Books Recommender System)
+#  My First Machine Learning Project: PageMatch (Books Recommender System)
 
-Hey everyone! 👋 Welcome to my **PageMatch Books Recommender System** project! 
+Hey everyone!  Welcome to my **PageMatch Books Recommender System** project! 
 
 I built this project to create a book discovery and recommendation web application inspired by modern editorial design. It uses **Collaborative Filtering** with the **K-Nearest Neighbors (KNN)** algorithm to recommend books based on reading preferences and moods!
 
 ---
 
-## 🌟 What Does This Project Do?
+##  What Does This Project Do?
 
 1. **Discover & Search**: Search for any book title or mood you are in.
 2. **Curated For You**: Recommends similar books based on your taste using a Machine Learning KNN model.
@@ -16,7 +16,7 @@ I built this project to create a book discovery and recommendation web applicati
 
 ---
 
-## 🧠 How Does It Work? (Simple Explanation)
+##  How Does It Work? (Simple Explanation)
 
 * **Collaborative Filtering**: If readers who enjoyed *The Secret History* also loved *If We Were Villains* and *Bunny*, the system learns that these books share similar themes and tone!
 * **K-Nearest Neighbors (KNN)**: We turn user ratings into a mathematical user-item matrix (pivot table) and use **Cosine Distance** to calculate the closest matching neighbor books in real time.
@@ -34,7 +34,7 @@ I built this project to create a book discovery and recommendation web applicati
 
 ---
 
-## 📁 Project Directory Structure
+##  Project Directory Structure
 
 ```text
 Books Recomandation System/
@@ -58,7 +58,7 @@ Books Recomandation System/
 
 ---
 
-## 💻 How to Run Locally (Step-by-Step for Beginners)
+##  How to Run Locally (Step-by-Step for Beginners)
 
 ### Step 1: Open terminal in the project directory
 ```bash
@@ -97,7 +97,7 @@ Open your browser and navigate to: **`http://localhost:5000`**!
 
 ---
 
-## ☁️ How to Deploy on AWS EC2 (Step-by-Step - No Docker Needed!)
+##  How to Deploy on AWS EC2 (Step-by-Step - No Docker Needed!)
 
 ### Step 1: Launch an AWS EC2 Instance
 1. Log into your [AWS Management Console](https://aws.amazon.com/console/).
@@ -153,7 +153,7 @@ Visit: `http://<YOUR_EC2_PUBLIC_IP>:5000` in your web browser. Your project is n
 
 ---
 
-## 🎓 What I Learned Building This
+##  What I Learned Building This
 
 * Building machine learning recommendation models using Scikit-Learn's `NearestNeighbors`.
 * Transforming user-item rating matrices with Pandas and NumPy.
